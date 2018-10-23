@@ -47,9 +47,14 @@ Since each model offers unique insights to the similarity of names, stacking our
 ## Related Materials
 
 [Tensorflow: Vector Representations of Words](https://www.tensorflow.org/tutorials/representation/word2vec)
+
 [Soundex](https://en.wikipedia.org/wiki/Soundex)
+
 [Jaro-Winkler Distance](https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance)
+
 [Modularity Maximization](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1482622/)
+
 [Other Community Detection Methods](https://en.wikipedia.org/wiki/Community_structure)
+
 [Comparison of Name Matching Algorithms](https://www.researchgate.net/profile/Chakkrit_Snae/publication/242594357_A_Comparison_and_Analysis_of_Name_Matching_Algorithms/links/004635330fb777dff9000000.pdf)
 
